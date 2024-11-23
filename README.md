@@ -131,7 +131,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For any queries or feedback, please reach out:
-- **Email**: diwakar.patel@codtechitsolutions.com
+- **Email**: diwakar453t@gmail.com
 - **GitHub**: [github.com/diwakarpatel](https://github.com/diwakarpatel)
 
 ---
