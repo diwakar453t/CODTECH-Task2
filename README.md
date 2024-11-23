@@ -1,5 +1,3 @@
-Here’s a detailed **README.md** file for your project:
-
 ---
 
 # Inventory Management System with GUI
@@ -143,6 +141,4 @@ For additional reference, this repository includes a simple Python-based calcula
 python calculator.py
 ```
 
---- 
-
-Feel free to copy and paste this into your GitHub repository's README.md file!
+---
